@@ -1,3 +1,4 @@
+baseurl: "ccc/"
 markdown: kramdown
 extensions: [fenced_code_blocks]
 
